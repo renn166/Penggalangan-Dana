@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Galang Donasi</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      background-color: #fefefe;
+      padding: 50px;
+    }
+    .donasi-box {
+      max-width: 600px;
+      margin: auto;
+      background-color: #fff3f3;
+      padding: 30px;
+      border-radius: 10px;
+      box-shadow: 0 0 10px #ccc;
+    }
+    h1 {
+      color: #d80027;
+    }
+    p {
+      font-size: 18px;
+      color: #333;
+    }
+    img {
+      max-width: 100%;
+      height: auto;
+      margin-top: 20px;
+      border-radius: 10px;
+    }
+  </style>
+</head>
+<body>
+  <div class="donasi-box">
+    <h1>Galang Donasi Membantu Pasien Korban Uppercut Di Amazon</h1>
+    <p>Berapa Pun Nominal Donasi Sangat Berarti Bagi Pasien.</p>
+     <!-- Nama Pasien -->
+    <div class="nama-pasien">Nama Pasien : Bapak Harwin Jit Singh</div>
+    <div class="Asal">Asal : Celawan, Kab Serdang Bedagai</div>
+    
+    <!-- Gambar -->
+    <img src="https://art-global.yimeta.ai/face-swap/1da296955be2bc36f31a34cbde1ad39f.webp" alt="Foto Pasien">
+
+    <!-- Keterangan opsional -->
+    <p><em>Foto Pasien Adalah Foto Ketika Masih Dapat Beraktivitas</em></p>
+  </div>
+</body>
+</html>
